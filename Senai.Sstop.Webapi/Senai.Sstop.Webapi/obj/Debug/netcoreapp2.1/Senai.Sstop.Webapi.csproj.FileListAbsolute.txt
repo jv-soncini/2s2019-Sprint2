@@ -1,0 +1,14 @@
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\bin\Debug\netcoreapp2.1\Senai.Sstop.Webapi.deps.json
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\bin\Debug\netcoreapp2.1\Senai.Sstop.Webapi.runtimeconfig.json
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\bin\Debug\netcoreapp2.1\Senai.Sstop.Webapi.runtimeconfig.dev.json
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\bin\Debug\netcoreapp2.1\Senai.Sstop.Webapi.dll
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.csprojAssemblyReference.cache
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.RazorAssemblyInfo.cache
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.RazorAssemblyInfo.cs
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.AssemblyInfoInputs.cache
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.AssemblyInfo.cs
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.RazorTargetAssemblyInfo.cache
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\bin\Debug\netcoreapp2.1\Senai.Sstop.Webapi.pdb
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.dll
+C:\Users\44634488833\Documents\Sprint2-BackEnd\Senai.Sstop.Webapi\Senai.Sstop.Webapi\obj\Debug\netcoreapp2.1\Senai.Sstop.Webapi.pdb
